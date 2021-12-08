@@ -1,4 +1,4 @@
-# todoapp
+# ToDoApp
 
 A new Flutter application.
 
@@ -16,3 +16,14 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![SS1](https://github.com/Abiral1234/ToDoApp/blob/master/img/1.jpg)
+
+Screen Shot 1
+
+![SS1](https://github.com/Abiral1234/ToDoApp/blob/master/img/2.jpg)
+
+Screen Shot 2 
+
+
+![SS1](https://github.com/Abiral1234/ToDoApp/blob/master/img/3.jpg)
+
+Screen Shot 3
